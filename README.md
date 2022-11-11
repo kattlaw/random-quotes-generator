@@ -1,4 +1,4 @@
-# Random Quotes Generator
+# Random Quote Generator
 
 ## This project was built with React
 

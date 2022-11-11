@@ -1,6 +1,6 @@
 # Random Quotes Generator
 
-## This project was build with React
+## This project was built with React
 
 https://katlaw-quote-gen.netlify.app
 

@@ -72,8 +72,9 @@ html {
 
   .quotebox {
     width: 90%;
+    height: auto;
   }
-  
+
   .quote-button {
     height: 75px;
   }

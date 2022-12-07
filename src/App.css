@@ -59,12 +59,23 @@ html {
   border-radius: 10px;
   position: relative;
   margin: 0 auto;
-  height: 100px;
+  height: 50px;
   width: 150px;
   background-color: #e0dacf;
   color: #454343;
   margin-top: 1rem;
   font-family:'Shadows Into Light', cursive;
   font-size: 20px;
+}
+
+@media only screen and (min-width: 300px) and (max-width: 575px) {
+
+  .quotebox {
+    width: 90%;
+  }
+  
+  .quote-button {
+    height: 75px;
+  }
 }
 
